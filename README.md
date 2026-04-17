@@ -1,6 +1,6 @@
 # WebTRIS API Client
 
-A Python project for retrieving and analyzing UK National Highways traffic data using the WebTRIS API. This application fetches daily traffic observations for a selected site, parses the API response into Python objects, and provides summary statistics such as average speed, total traffic volume, hourly records, and peak hour analysis. The repository currently includes `webtris_client.py`, `main.py`, and `test_webtris_client.py`. :contentReference[oaicite:0]{index=0}
+A Python project for retrieving and analyzing UK National Highways traffic data using the WebTRIS API. This application fetches daily traffic observations for a selected site, parses the API response into Python objects, and provides summary statistics such as average speed, total traffic volume, hourly records, and peak hour analysis. The repository currently includes `webtris_client.py`, `main.py`, and `test_webtris_client.py`. 
 
 ## Features
 
